@@ -1,6 +1,6 @@
-Here I am giving it a try to Computer Programming one more time after several years of leaving computer science behind.
+// Here I am giving it a try to Computer Programming one more time after several years of leaving computer science behind.
 
-include <iostream>
+#include <iostream>
 using namespace std;
 int main(){
 int num1,num2,result,op;
